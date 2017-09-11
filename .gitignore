@@ -1,0 +1,16 @@
+# below are the file types that would be ignored by git
+*.log
+*.toc
+*.aux
+*.dvi
+*.*~
+*.bak
+*.lof
+*.lot
+*.asv
+*.pyc
+*.synctex.gz
+*.synctex
+*.Shortcut*
+__pycache__
+*.lnk
