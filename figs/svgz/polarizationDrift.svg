@@ -997,17 +997,17 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="323.96609"
-     inkscape:cy="586.59163"
+     inkscape:zoom="1.4"
+     inkscape:cx="331.00571"
+     inkscape:cy="776.00694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="657"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -1018,7 +1018,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1028,7 +1028,10 @@
      id="layer1">
     <g
        id="g6436"
-       transform="matrix(1.3235976,0,0,1.3235976,-54.783341,-48.651401)">
+       transform="matrix(1.3235976,0,0,1.3235976,-54.783341,-48.651401)"
+       inkscape:export-filename="C:\Users\nitjai\research\programs\qpit\qcrypt17poster\figs\final\polarizationDrift.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
       <g
          transform="matrix(1.25,0,0,1.2499999,-153.92508,51.765125)"
          id="g4635"
