@@ -1,0 +1,64 @@
+
+#### Features #### 
+
+- Broadband coding using CW light at telecom wavelength: quantum states encoded on some 'B' MHz of sideband frequencies. With suitable electronics, 'B' can be extended to the GHz range (limited only by the operating bandwidth of Alice's modulators and Bob's detector). 
+
+- Using local LO to prevent security loopholes. Also eases the transmitter design (at least in an optical sense). 
+
+- Something about (continuous) Gaussian modulation vs discrete modulations, e.g. QPSK. The former is difficult to implement than the latter but security proofs are in a more advanced stage.
+
+#### Theory ####
+
+- General stuff about CVQKD
+
+- Stuff from Cosmo
+
+#### Setup components ####
+
+- Complete optical scheme implemented so far (more refined version of https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/07/28/homodyne-measurements-with-upconverted-signal-and-x-quadrature-locked/)
+- Visualized optical scheme? 
+
+- Lasers 
+> Photo of NKT lasers? 
+> Phase noise (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/04/06/laser-frequency-stability/)
+
+- Detector 
+> Photo of Discovery detector? Salient features (adjustable gain, bandwidth settings)?
+> Verifying that the detection is shot noise limited in the band of interest, and clearnce from electronic noise floor 
+
+- Modulators 
+> Broadband coding may require a thorough pre-characterization of the modulators and detector response (transfer function) in the frequency band of interest. 
+> S21 curves (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/06/21/s21-measurement-for-phase-modulator/)
+
+- Polarization control
+> Polarization drifts in lab conditions are okay but unlikely to be so in a real world fiber link. Need to implement some polarization control feedback in Bob.
+> Fluctuation measurements (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/01/09/power-evolution-due-to-polarization-fluctuations-in-20-km-spool/)
+
+- AWG vs RF mixers: Upconversion/downconversion subject to distortion?
+
+- Optical hybrid (dis)advantages ?
+
+#### Setup operation ####
+
+> Block diagram or flowchart showing different stages. 
+(https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/03/08/first-attempt-at-demodulation-with-large-beat-freq-100-mhz/)
+
+- Beat frequency signal location and strength w.r.t. modulation bands
+> Expression for heterodyne current (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/07/03/heterodyne-current-expression-which-is-as-general-as-possible/)
+
+- Implementing optical single side band modulation (OSSB) as having double side bands is spectrally inefficient plus opens a potential security loophole. 
+> Broadband OSSB cannot be implemented with traditional AM and PM. Need an IQ modulator, such as a dual parallel MZM, with appropriate DC biases. 
+> Analysis and new heterodyne current expression (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/02/28/single-side-band-modulation/)
+
+- Carrier frequency and phase recovery 
+> Using digital PLL to track (Once I understand Ruben's code compeltely, might be possible to add a plot of the filtered phase error)
+
+- Clock recovery (symbol synchronization)
+> Using pilot tones in addition to quantum data signal (https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/05/02/clock-recovery/)
+> Pilot tones: do they result in security vulnerability? 
+
+- FPGA related issues & challenges?
+
+#### Preliminary measurement results ####
+
+https://labbook.qpit.fysik.dtu.dk/we-mean-biz/2017/09/05/2017-08-29-heterodyne-measurements-with-awg-driven-pm-and-am/
