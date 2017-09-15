@@ -713,9 +713,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="362.52891"
-     inkscape:cy="732.91662"
+     inkscape:zoom="1.979899"
+     inkscape:cx="346.38073"
+     inkscape:cy="654.15332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -732,7 +732,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -741,8 +741,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g11143"
-       inkscape:export-filename="C:\Users\nitjai\research\manuscripts\qcrypt17poster\figs\final\g11143.png"
+       id="g5233"
+       inkscape:export-filename="C:\Users\nitjai\research\manuscripts\qcrypt17poster\figs\final\th_attacks.png"
        inkscape:export-xdpi="500"
        inkscape:export-ydpi="500">
       <path
@@ -1244,12 +1244,12 @@
       <path
          id="path4620"
          d="m 177.31932,431.28446 118.11523,0 7.38281,-2.99804 7.38281,-13.04687 7.37794,-11.69922 7.38769,-10.49317 7.37794,-9.40917 7.38281,-8.44239 7.38281,-7.56836 7.38281,-6.79199 7.38282,-6.08399 7.38281,-5.45899 7.37792,-4.89745 7.38282,-4.38965 7.38281,-3.93555 7.38281,-3.52538 7.38281,-3.16407 7.38282,-2.83691 7.37793,-2.54395 7.38282,-2.27539 7.38281,-2.0459 7.38281,-1.83106 7.38281,-1.64062 7.38282,-1.4746 7.38281,-1.31837 7.38281,-1.18163 7.38281,-1.05958 7.37793,-0.95215 7.38281,-0.84961 7.38281,-0.76171 7.38282,-0.6836 7.38281,-0.61523 7.38281,-0.54687 7.37793,-0.49317 7.38281,-0.43946 7.38281,-0.3955 7.38281,-0.35156 7.38282,-0.31739 7.38281,-0.2832 7.38281,-0.25391 7.38281,-0.22949 7.37794,-0.20507 7.38281,-0.18067 7.38282,-0.16602 7.38281,-0.14648 7.38281,-0.13183 0.0439,0"
-         style="fill:none;stroke:#ebb01e;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ebb01e;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.6,1.2;stroke-opacity:1;stroke-dashoffset:0"
          inkscape:connector-curvature="0" />
       <path
          id="path4622"
          d="m 177.31932,431.28446 147.64648,0 7.37794,-6.30859 7.38281,-12.61718 7.38281,-11.33302 7.38281,-10.16601 7.38282,-9.13086 7.38281,-8.19335 7.37792,-7.3584 7.38282,-6.60156 7.38281,-5.92285 7.38281,-5.31739 7.38281,-4.77539 7.38282,-4.28222 7.37793,-3.8379 7.38282,-3.44726 7.38281,-3.0957 7.38281,-2.77344 7.38281,-2.48535 7.38282,-2.23145 7.38281,-2.00684 7.38281,-1.79687 7.38281,-1.61133 7.37793,-1.44042 7.38281,-1.29884 7.38281,-1.1621 7.38282,-1.04005 7.38281,-0.93261 7.38281,-0.83984 7.37793,-0.74708 7.38281,-0.67382 7.38281,-0.60548 7.38281,-0.54198 7.38282,-0.4834 7.38281,-0.43458 7.38281,-0.39062 7.38281,-0.34668 7.37794,-0.31739 7.38281,-0.27831 7.38282,-0.24902 7.38281,-0.2295 7.38281,-0.20019 0.0439,0"
-         style="fill:none;stroke:#7d2e8c;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#7d2e8c;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3.60000014,1.20000005;stroke-opacity:1;stroke-dashoffset:0"
          inkscape:connector-curvature="0" />
       <path
          id="path4624"
