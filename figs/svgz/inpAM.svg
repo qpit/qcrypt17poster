@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="inpAM.svg"
-   inkscape:export-filename="C:\Users\nitjai\research\programs\qpit\qcrypt17poster\figs\final\inpAM.png"
+   inkscape:export-filename="C:\Users\nitjai\research\manuscripts\qcrypt17poster\figs\final\inpAM.png"
    inkscape:export-xdpi="500"
    inkscape:export-ydpi="500">
   <defs
@@ -2113,14 +2113,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="397.21867"
-     inkscape:cy="763.02489"
+     inkscape:cx="228.52319"
+     inkscape:cy="843.83709"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="1912"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -2131,7 +2131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2139,26 +2139,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g28387"
-       transform="matrix(0.3,0,0,0.3,3.378245,-10.343564)">
-      <g
-         transform="matrix(3.1250001,0,0,3.1250001,1381.2531,276.56263)"
-         id="g28389">
-        <text
-           id="text28391"
-           style="font-variant:normal;font-weight:bold;font-size:44px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="-369.36514"
-           y="-33.704914">
-          <tspan
-             id="tspan28393"
-             sodipodi:role="line"
-             y="-33.704914"
-             x="-369.36514"
-             style="font-size:31.99999809px">input (digitally upconverted) AM signal</tspan>
-        </text>
-      </g>
-    </g>
     <g
        id="g33941"
        transform="matrix(0.4688814,0,0,0.46858146,161.17848,-51.323904)">
